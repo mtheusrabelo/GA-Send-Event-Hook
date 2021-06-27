@@ -1,0 +1,25 @@
+{
+  "name": "ga-send-event-hook",
+  "version": "0.1.0",
+  "description": "GA Send Event Hook",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mtheusrabelo/GA-Send-Event-Hook.git"
+  },
+  "keywords": [
+    "GA",
+    "Event",
+    "Hook",
+    "React"
+  ],
+  "author": "Matheus Freire Rabelo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mtheusrabelo/GA-Send-Event-Hook/issues"
+  },
+  "homepage": "https://github.com/mtheusrabelo/GA-Send-Event-Hook#readme"
+}
